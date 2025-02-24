@@ -123,7 +123,7 @@ improves Human-AI collaboration
 
 10)Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
-vague propmt-=tell me about space"
+vague prompt-=tell me about space"
 improved prompt="Describe the structure of the universe, including galaxies, black holes, and dark matter, and explain their significance in modern astrophysics."
  the improved prompt is more specific - focuses on key topics such as galaxies.
  the improved prompt is concise and direct- this eliminates vagueness and this ensures a more informative answer.
